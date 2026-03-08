@@ -289,6 +289,3 @@ Standardpfad für den privaten Schlüssel:
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:00ff88,50:0f172a,100:000000" />
 
 </div>
-```
-
-Se você quiser, eu posso fazer agora uma **versão 2 ainda mais brutal**, com tema **black + neon green + red alert**, parecendo interface de invasão real.
