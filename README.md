@@ -150,24 +150,7 @@ octocrypt/
 ├── requirements.txt
 ├── octocrypt.bat
 ├── README.md
-│
-├── core/
-│   ├── crypto.py
-│   ├── signature.py
-│   ├── compression.py
-│   ├── password_policy.py
-│   └── container_format.py
-│
-├── gui/
-│   └── app.py
-│
-├── keys/
-│   ├── ed25519_private.pem
-│   └── ed25519_public.pem
-│
-└── examples/
-    ├── secret.txt
-    └── secret.octo
+
 ```
 
 ---
