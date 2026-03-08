@@ -85,7 +85,7 @@ Runtime:      Python 3.10+
 ## `> installation`
 
 ```bash
-git clone https://github.com/Oktopus-Motor/octocrypt.git
+git clone [https://github.com/Oktopus-Motor/octocrypt.git](https://github.com/hypernwsn233/octocrypt.git)
 cd octocrypt
 pip install -r requirements.txt
 ```
